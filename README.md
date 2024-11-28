@@ -2,7 +2,7 @@
 
 ### Name: Jay Arre Talosig  
 ### Subject & Section: CTINFMGL - COM231
-### Professor: Coming Soon      
+### Professor: Mrs. Jensen A. Santillan     
 ### No. of Units: 3 Units
 ### Prerequisite: [CCDATRCL - Data Structure and Algorithm](https://github.com/flexycode/CCDATRCL)
 
