@@ -177,9 +177,9 @@ Professor TBA background profile coming soon...
 ### Fixed 
 - ✨ Fix changelogs
 
-## [8.0.4] - 2024-09-26   
+## [8.0.4] - 2024-11-30   
 ### Added  
-- ✨ Coming Soon
+- ✨ Create an Architecture database schema for my last project in DSA 
 
 🧊 CTINFMGL
 
