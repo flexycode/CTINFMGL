@@ -177,9 +177,18 @@ Professor TBA background profile coming soon...
 ### Fixed 
 - ✨ Fix changelogs
 
-## [8.0.4] - 2024-11-30   
+## [11.0.1] - 2024-11-30   
 ### Added  
-- ✨ Create an Architecture database schema for my last project in DSA 
+- ✨ Create an Architecture database schema for my last project in DSA
+
+## [11.0.1] - 2024-11-30   
+### Added  
+- ✨ Create an Architecture database schema for my last project in DSA
+
+## [11.0.1] - 2024-12-04   
+### Added  
+- ✨ Create Architecture Database POC for Ware House Management
+- ✨ Create Architecture Database POC for my Secret Project
 
 🧊 CTINFMGL
 
