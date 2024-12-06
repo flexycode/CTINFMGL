@@ -1,6 +1,6 @@
 # 💫 CTINFMGL - INFORMATION MANAGEMENT
 
-### Name: Jay Arre Talosig  
+### Name: [Jay Arre Talosig](https://github.com/flexycode)  
 ### Subject & Section: CTINFMGL - COM231
 ### Professor: Mrs. Jensen A. Santillan     
 ### No. of Units: 3 Units
@@ -59,63 +59,48 @@ Coming Soon
 
 #### Delivery Mode: Discussion, Program demonstration, Synchronous Class, Face-to-face
 
-```
-Coming Soon
-Coming Soon
-Coming Soon
-Coming Soon
-```
-
-<!--
 | Week No. | Date Coverage | Topic                                                | Reference                                                                                           |
 |----------|---------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| 0        | TBA           | Class Orientation                                    | Course Syllabus                                                                                     |  
+| 0        | Nov 18        | Class Orientation                                    | Course Syllabus                                                                                     |  
 |          |               | - Ø Concept of Database                              |                                                                                                     | 
 |          |               | - Ø Overview                                         |                                                                                                     |   
 |          |               | - Ø Table of Contents                                |                                                                                                     |  
 |          |               | - Ø Weekly basis                                     |                                                                                                     |
-|          | TBA           | - Ø Midterm and Final Exam Project                   | Course Materials, PPT, Sample Programs                                                              |    
+|          |               | - Ø Midterm and Final Exam Project                   | Course Materials, PPT, Sample Programs                                                              |    
 |          |               | - Ø Individual Project Proposal                      |                                                                                                     |
-| 1        | TBA           | 1.1 - Data vs Information                            | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
+| 1        | Nov 22        | 1.1 - Data vs Information                            | [Kindly give my repo_a star here💫](https://github.com/flexycode/flexycode)                        |
 |          |               | 1.2 - Introduction to Database                       |                                                                                                     |
-|          | TBA           | 1.3 - Purpose of Database                            |                                                                                                     |
+|          |               | 1.3 - Purpose of Database                            |                                                                                                     |
 |          |               | 1.4 - Database Architecture                          |                                                                                                     |
-| 2        | TBA           | 2.1 - Data Modeling and Data Models                  | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
+| 2        | Nov 29        | 2.1 - Data Modeling and Data Models                  | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CTINFMGL)                 |
 |          |               | 2.2 - The Evolution of Database                      |                                                                                                    |
-|          | TBA           | 2.3 - Data Modeling best Practices                   |                                                                                                    |
+|          |               | 2.3 - Data Modeling best Practices                   |                                                                                                    |
 |          |               |                                                      |                                                                                                    |
-| 3        | Dec 6         | 3.1 - Stack Definition                               | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
-|          |               | 4.2 - Stack Application                              |                                                                                                    |     
-|          | TBA           | 4.3 - Stack Implementation using an Array            |                                                                                                    | 
-|          |               | 4.4 - Stack Implementation using a Linked-list       |                                                                                                    |   
+| 3        | Dec 6         | 3.1 - Relational Database Model                      | [Kindly give my repo_a star here💫](https://github.com/flexycode/flexycode)                        |
+|          |               | 3.2 - LogicalView Data                               |                                                                                                    |     
+|          |               | 3.3 - Data Dictionary                                |                                                                                                    | 
+|          |               | 3.4 - Best Practices                                 |                                                                                                    |   
 |          |               |                                                      |                                                                                                    | 
-| 4        | TBA           | 5.1 Queue Definition                                 | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
-|          |               | 5.2 Queue Application                                |                                                                                                    |
-| 5        | TBA           | 5.3 Queue Implementation using an Array              |                                                                                                    |
-|          |               | 5.4 Queue Implementation using a Linked-list         |                                                                                                    |
+| 4        | Dec 13        | 4.1 - Entity Model Ralationship Model                | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CTINFMGL)                 |
+|          |               | 4.2 - Developing ER Diagram                          |                                                                                                    |
+| 5        | Dec 20        | 5.1 - Extended Entity Relationship Mode              |                                                                                                    |
+|          |               | 5.2 - Entity Integrity                               |                                                                                                    |
 |          |               |                                                      |                                                                                                    |
-| 6        | September 16  | 6.1 Binary Tree                                      | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCDATRCL)                  |
-|          |               | 6.2 Binary Tree representation of expression         |                                                                                                    |
-|          |               | MIDTERM EXAM                                         |                                                                                                    |
-| 7        | September 26  | 6.3 Binary Traversal                                 |                                                                                                    |
-|          |               | 6.4 Binary Search Trees                              |                                                                                                    |
-|          |               | 6.5 Heap                                             |                                                                                                    |   
+| 6        | TBA           | 6.1 - Database Table Normalization                   | [Kindly give my repo_a star here💫](https://github.com/flexycode/flexycode)                       |
+|          |               | 6.2 - The Need for Normalization                     |                                                                                                    |
+|          |               | 6.3 - The Normalization Process                      |                                                                                                    |
+| 7        | TBA           | 7.1 - Introduction to SQL                            | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CTINFMGL)                |
+|          |               | 7.2 - Data Definition Commands                       |                                                                                                    |
+|          |               | 7.3 - Data Manipulation Commands                     |                                                                                                    |   
+|          |               | 7.4 - Select Queries                                 |                                                                                                    |
+| 8        | TBA           | 8.1 - Final Project Proposal                         | [Kindly give my repo_a star here💫](https://github.com/flexycode/flexycode)                       |
+|          |               | 8.2 - Scope-of-work                                  |                                                                                                    |
+| 9        | TBA           | 9.1 - Work in Progress                               |                                                                                                    |
 |          |               |                                                      |                                                                                                    |
-| 9        | September 30  | 7.1 Hash Table                                       | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCDATRCL)                 |
-|          |               | 7.2 Hash Table Operations                            |                                                                                                    |
-| 10       | October 10    | 7.3 Open Hashing                                     |                                                                                                    |
-|          |               | 7.4 Closed Hashing                                   |                                                                                                    |
 |          |               |                                                      |                                                                                                    |
-| 11       | October 14    | 8.1 Graph Definition                                 | [Kindly give my repo_a star here💫](https://github.com/flexycode/flexycode)                        |
-|          |               | 8.2 Graph Application                                |                                                                                                    |
-| 12       | October 24    | 8.3 Graph Representation                             |                                                                                                    |
-|          |               | 8.4 Graph Traversal                                  |                                                                                                    |
+| 10       | TBA           | 10.1 - Final Submission                              | [Kindly give my repo_a star here💫](https://github.com/flexycode/flexycode)                        |
 |          |               |                                                      |                                                                                                    |
-| 13       | October 28    | Presentation of Final Project                        | [Kindly give my_repo a star here💫](https://github.com/flexycode/flexycode)                        |
-|          | November 7    |                                                      |                                                                                                    |
 
-
-```-->
 
 # 📜 Folder Structure
 ```
