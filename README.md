@@ -7,14 +7,10 @@
 ### Prerequisite: [CCDATRCL - Data Structure and Algorithm](https://github.com/flexycode/CCDATRCL)
 
 ## 🧠 Overview
-```
-Coming Soon
-Coming Soon
-Coming Soon
-Coming Soon
-Coming Soon
-Coming Soon
-```
+
+This course provides students with the theoretical knowledge and practical skills in the
+utilization of databases and database management systems in the ICT applications. The logical
+design, physical design and implementation of relational databases are all covered in this course.
 
 ## 📋 Table of Contents
 
@@ -73,35 +69,35 @@ Coming Soon
 <!--
 | Week No. | Date Coverage | Topic                                                | Reference                                                                                           |
 |----------|---------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| 1        | TBA           | Class Orientation                                    | Course Syllabus                                                                                     |  
-|          |               | - Ø Concept of Abstraction                           |                                                                                                     | 
-|          |               | - Ø Review of types-definitions                      |                                                                                                     |   
-|          |               | - Ø Parameters and Parameter Pasing                  |                                                                                                     |  
-|          |               | - Ø Array Processing and Manipulation                |                                                                                                     |
-|          | TBA           | - Ø Abstract Data Types (ADTs)                       | Course Materials, PPT, Sample Programs                                                              |    
-|          |               | - Ø Introduction to Data Structures                  |                                                                                                     |
-| 2        | TBA           | 2.1 - Classes / Structure                            | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
-|          |               | 2.2 - Class Definition                               |                                                                                                     |
-|          | TBA           | Type Definition                                      |                                                                                                     |
-|          |               | Involving structures                                 |                                                                                                     |
-| 3        | TBA           | 3.1 - Linked-list                                    | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
-|          |               | 3.2 - Linked-list operations                         |                                                                                                    |
-|          | TBA           | 3.3 - Linked-list traversal                          |                                                                                                    |
+| 0        | TBA           | Class Orientation                                    | Course Syllabus                                                                                     |  
+|          |               | - Ø Concept of Database                              |                                                                                                     | 
+|          |               | - Ø Overview                                         |                                                                                                     |   
+|          |               | - Ø Table of Contents                                |                                                                                                     |  
+|          |               | - Ø Weekly basis                                     |                                                                                                     |
+|          | TBA           | - Ø Midterm and Final Exam Project                   | Course Materials, PPT, Sample Programs                                                              |    
+|          |               | - Ø Individual Project Proposal                      |                                                                                                     |
+| 1        | TBA           | 1.1 - Data vs Information                            | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
+|          |               | 1.2 - Introduction to Database                       |                                                                                                     |
+|          | TBA           | 1.3 - Purpose of Database                            |                                                                                                     |
+|          |               | 1.4 - Database Architecture                          |                                                                                                     |
+| 2        | TBA           | 2.1 - Data Modeling and Data Models                  | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
+|          |               | 2.2 - The Evolution of Database                      |                                                                                                    |
+|          | TBA           | 2.3 - Data Modeling best Practices                   |                                                                                                    |
 |          |               |                                                      |                                                                                                    |
-| 4        | TBA           | 4.1 - Stack Definition                               | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
+| 3        | Dec 6         | 3.1 - Stack Definition                               | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
 |          |               | 4.2 - Stack Application                              |                                                                                                    |     
 |          | TBA           | 4.3 - Stack Implementation using an Array            |                                                                                                    | 
 |          |               | 4.4 - Stack Implementation using a Linked-list       |                                                                                                    |   
 |          |               |                                                      |                                                                                                    | 
-| 5        | TBA           | 5.1 Queue Definition                                 | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
+| 4        | TBA           | 5.1 Queue Definition                                 | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CCDATRCL)                 |
 |          |               | 5.2 Queue Application                                |                                                                                                    |
-| 6        | TBA           | 5.3 Queue Implementation using an Array              |                                                                                                    |
+| 5        | TBA           | 5.3 Queue Implementation using an Array              |                                                                                                    |
 |          |               | 5.4 Queue Implementation using a Linked-list         |                                                                                                    |
 |          |               |                                                      |                                                                                                    |
-| 7        | September 16  | 6.1 Binary Tree                                      | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCDATRCL)                  |
+| 6        | September 16  | 6.1 Binary Tree                                      | [Course Materials, PPT, Sample Programs🚀](https://github.com/flexycode/CCDATRCL)                  |
 |          |               | 6.2 Binary Tree representation of expression         |                                                                                                    |
 |          |               | MIDTERM EXAM                                         |                                                                                                    |
-| 8        | September 26  | 6.3 Binary Traversal                                 |                                                                                                    |
+| 7        | September 26  | 6.3 Binary Traversal                                 |                                                                                                    |
 |          |               | 6.4 Binary Search Trees                              |                                                                                                    |
 |          |               | 6.5 Heap                                             |                                                                                                    |   
 |          |               |                                                      |                                                                                                    |
