@@ -1,3 +1,6 @@
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/flexycode/CTINFMGL/blob/main/asset/Information-Management.png" />
+
 # 💫 CTINFMGL - INFORMATION MANAGEMENT
 
 ### Name: [Jay Arre Talosig](https://github.com/flexycode)  
