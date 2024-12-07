@@ -75,7 +75,7 @@ Coming Soon
 |          |               | 1.2 - Introduction to Database                       |                                                                                                     |
 |          |               | 1.3 - Purpose of Database                            |                                                                                                     |
 |          |               | 1.4 - Database Architecture                          |                                                                                                     |
-| 2        | Nov 29        | 2.1 - Data Modeling and Data Models                  | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CTINFMGL)                 |
+| 2        | Nov 29        | 2.1 - Data Modeling and Data Models                  | [Course Materials, PPT 🚀](https://github.com/robitussin/CTINFMGL)                 |
 |          |               | 2.2 - The Evolution of Database                      |                                                                                                    |
 |          |               | 2.3 - Data Modeling best Practices                   |                                                                                                    |
 |          |               |                                                      |                                                                                                    |
@@ -92,11 +92,11 @@ Coming Soon
 | 6        | TBA           | 6.1 - Database Table Normalization                   | [Kindly give my repo_a star here💫](https://github.com/flexycode/flexycode)                       |
 |          |               | 6.2 - The Need for Normalization                     |                                                                                                    |
 |          |               | 6.3 - The Normalization Process                      |                                                                                                    |
-| 7        | TBA           | 7.1 - Introduction to SQL                            | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CTINFMGL)                |
+| 7        | TBA           | 7.1 - Introduction to SQL                            | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CTINFMGL)                 |
 |          |               | 7.2 - Data Definition Commands                       |                                                                                                    |
 |          |               | 7.3 - Data Manipulation Commands                     |                                                                                                    |   
 |          |               | 7.4 - Select Queries                                 |                                                                                                    |
-| 8        | TBA           | 8.1 - Final Project Proposal                         | [Kindly give my repo_a star here💫](https://github.com/flexycode/flexycode)                       |
+| 8        | TBA           | 8.1 - Final Project Proposal                         | [Kindly give my repo_a star here💫](https://github.com/flexycode/flexycode)                        |
 |          |               | 8.2 - Scope-of-work                                  |                                                                                                    |
 | 9        | TBA           | 9.1 - Work in Progress                               |                                                                                                    |
 |          |               |                                                      |                                                                                                    |
@@ -144,10 +144,9 @@ This project is provided "as is" without warranty of any kind, express or implie
 
 # 🔭 Acknowledgements   
 
-### ✨ Professor TBA
-```
-Professor TBA background profile coming soon...
-```
+### ✨ Professor
+
+Professor Mrs. Jensen Santillan is a highly respected academic and industry practitioner. Her expertise spans a wide range of areas, including Data Analytics, Data Science, Data Analysis, Data Structures, and Information Management. As a distinguished faculty member at the College of Computing and Information Technology at National University, she shares her knowledge and skills with students.
 
 # 📫 Changelogs
 ```
