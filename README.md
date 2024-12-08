@@ -168,10 +168,21 @@ Professor Mrs. Jensen Santillan is a highly respected academic and industry prac
 ### Added  
 - ✨ Create an Architecture database schema for my last project in DSA
 
-## [11.0.1] - 2024-12-04   
+## [12.0.2] - 2024-12-02   
 ### Added  
 - ✨ Create Architecture Database POC for Ware House Management
 - ✨ Create Architecture Database POC for my Secret Project
+
+## [12.0.1] - 2024-12-06   
+### Added  
+- ✨ Create Proposal Architecture Database for this semester Project
+- ✨ Create Architecture Database POC for my Secret Project
+
+## [12.0.2] - 2024-12-10   
+### Added  
+- ✨ Coming Soon
+- ✨ Coming Soon
+
 
 🧊 CTINFMGL
 
