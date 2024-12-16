@@ -195,11 +195,17 @@ Professor Mrs. Jensen Santillan is a highly respected academic and industry prac
 - ✨ Add Introduction To Database
 - ✨ Add Data Models
 
-## [12.0.2] - 2024-12-13   
+## [12.0.3] - 2024-12-13   
 ### Added  
 - ✨ Add Relational Database
 - ✨ Add Entity Relationship Model
 - ✨ Extended Entity Relationship Model
+
+## [12.0.2] - 2024-12-17   
+### Added  
+- ✨ Coming Soon
+- ✨ Coming Soon
+- ✨ Coming Soon
 
 🧊 CTINFMGL
 
