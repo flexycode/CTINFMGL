@@ -203,9 +203,9 @@ Professor Mrs. Jensen Santillan is a highly respected academic and industry prac
 
 ## [12.0.2] - 2024-12-17   
 ### Added  
-- ✨ Coming Soon
-- ✨ Coming Soon
-- ✨ Coming Soon
+- ✨ Add Activity folder
+- ✨ Upload Activity no. 1
+- ✨ Upload Activity no. 2
 
 🧊 CTINFMGL
 
