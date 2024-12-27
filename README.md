@@ -160,6 +160,18 @@ This project is provided "as is" without warranty of any kind, express or implie
 
 Professor Mrs. Jensen Santillan is a highly respected academic and industry practitioner. Her expertise spans a wide range of areas, including Data Analytics, Data Science, Data Analysis, Data Structures, and Information Management. As a distinguished faculty member at the College of Computing and Information Technology at National University, she shares her knowledge and skills with students.
 
+### ✨ CCIT Faculty
+
+We would like to extend our heartfelt gratitude to the following professors who contributed their expertise and insights to the Information Management PDF:
+
+* Professor Julie Anne Angeles-Crystal
+* Professor Roger C. Primo Jr.
+* Professor Mark James G. Cayabyab
+* Professor John Ivan C. Maurat
+  
+Your dedication to advancing knowledge in this field and your commitment to educating future professionals have been invaluable. Thank you for your guidance, support, and the wealth of information you have shared. Your efforts have greatly enriched this project and will undoubtedly have a lasting impact on all who engage with this material.
+
+
 # 📫 Changelogs
 ```
 ## [8.0.4] - 2024-09-25     
