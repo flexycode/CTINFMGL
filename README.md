@@ -207,6 +207,11 @@ Professor Mrs. Jensen Santillan is a highly respected academic and industry prac
 - ✨ Upload Activity no. 1
 - ✨ Upload Activity no. 2
 
+## [12.0.2] - 2024-12-27   
+### Added  
+- ✨ Start Developing my Pharmaceutical Supply Chain Database 
+- ✨ Revise important paramaters for all data needs in my custom SQL 
+
 🧊 CTINFMGL
 
 ```
