@@ -93,7 +93,7 @@ These key features can help users understand the value of your Information Manag
 |          |               |                                                      |                                                                                                    |
 | 3        | Dec 6         | 3.1 - Relational Database Model                      | [Kindly give my repo_a star here💫](https://github.com/flexycode/flexycode)                        |
 |          |               | 3.2 - LogicalView Data                               |                                                                                                    |     
-|          |               | 3.3 - Data Dictionary                                |                                                                                                    | 
+|          |               | 3.3 - Data Dictionary                                |                                                                                                    |   
 |          |               | 3.4 - Best Practices                                 |                                                                                                    |   
 |          |               |                                                      |                                                                                                    | 
 | 4        | Dec 13        | 4.1 - Entity Model Ralationship Model                | [Course Materials, PPT, Sample Programs🚀](https://github.com/robitussin/CTINFMGL)                 |
@@ -219,12 +219,16 @@ Your dedication to advancing knowledge in this field and your commitment to educ
 - ✨ Upload Activity no. 1
 - ✨ Upload Activity no. 2
 
-## [12.0.2] - 2024-12-27   
+## [12.0.2] - 2024-12-27     
 ### Added  
 - ✨ Start Developing my Pharmaceutical Supply Chain Database 
-- ✨ Revise important paramaters for all data needs in my custom SQL 
+- ✨ Revise important paramaters for all data needs in my custom SQL
 
-🧊 CTINFMGL
+ ## [01.0.1] - 2024-01-14                 
+### Added  
+- ✨ Midterm Exam    
+
+🧊 CTINFMGL  
 
 ```
 
