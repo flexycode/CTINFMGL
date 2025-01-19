@@ -224,9 +224,14 @@ Your dedication to advancing knowledge in this field and your commitment to educ
 - ✨ Start Developing my Pharmaceutical Supply Chain Database 
 - ✨ Revise important paramaters for all data needs in my custom SQL
 
- ## [01.0.1] - 2024-01-14                 
+## [01.0.1] - 2024-01-14                 
 ### Added  
 - ✨ Midterm Exam    
+
+## [01.0.1] - 2024-01-21                 
+### Added  
+- ✨ Coming Soon
+- ✨ Coming Soon
 
 🧊 CTINFMGL  
 
