@@ -229,12 +229,11 @@ Your dedication to advancing knowledge in this field and your commitment to educ
 - ✨ Midterm Exam    
 
 ## [01.0.1] - 2024-01-21                 
-### Added  
-- ✨ Coming Soon
-- ✨ Coming Soon
+### Hotfix!!  
+- ✨ Fixed SQL on my JavaScript code base
+- ✨ Fixed Error on Prod
 
 🧊 CTINFMGL  
-
 ```
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
