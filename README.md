@@ -228,7 +228,11 @@ Your dedication to advancing knowledge in this field and your commitment to educ
 ### Added  
 - ✨ Midterm Exam    
 
-## [01.0.1] - 2024-01-21                 
+## [01.0.1] - 2024-01-21
+### Added
+- ✨ Create ERD for Library System and Inventory System
+- ✨ Upload Assignment for Entity Relational D
+               
 ### Hotfix!!  
 - ✨ Fixed SQL on my JavaScript code base
 - ✨ Fixed Error on Prod
