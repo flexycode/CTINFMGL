@@ -235,7 +235,7 @@ Your dedication to advancing knowledge in this field and your commitment to educ
                
 ### Hotfix!!  
 - ✨ Fixed SQL on my JavaScript code base
-- ✨ Fixed Error on Prod
+- ✨ Fixed Error on Prod v
 
 🧊 CTINFMGL  
 ```
