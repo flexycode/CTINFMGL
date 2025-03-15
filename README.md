@@ -117,7 +117,7 @@ These key features can help users understand the value of your Information Manag
 |          |               |                                                      |                                                                                                    |
 
 
-# 📜 Folder Structure
+# 📁 Repository Structure  📜
 ```
 coming soon...
 ```
