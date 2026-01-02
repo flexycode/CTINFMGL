@@ -256,7 +256,7 @@ Your dedication to advancing knowledge in this field and your commitment to educ
 
 <!-- End point line insert Comeback again next time, feel free to modify this  -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=💎💎Come+Back+Again+next+time💎💎" alt="mystreak"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Come+Back+Again+next+time" alt="mystreak"/>
 </p>
 
 </p>
